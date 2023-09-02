@@ -9,7 +9,6 @@ public class Main {
         System.out.printf("Hello and welcome!");
         System.out.println("good");
 
-
         System.out.println("main changes");
 
         // Press Ctrl+R or click the green arrow button in the gutter to run the code.
