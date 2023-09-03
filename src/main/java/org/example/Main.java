@@ -11,6 +11,8 @@ public class Main {
 
         System.out.println("main changes");
 
+        System.out.println("HW2 new string");
+
         System.out.println("HW2 string to main");
 
         // Press Ctrl+R or click the green arrow button in the gutter to run the code.
