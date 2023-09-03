@@ -11,6 +11,8 @@ public class Main {
 
         System.out.println("main changes");
 
+        System.out.println("HW2 new string");
+
         // Press Ctrl+R or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
 
